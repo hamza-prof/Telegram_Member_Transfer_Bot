@@ -1,0 +1,4 @@
+2024-12-17 16:31:59,519 - INFO - Authenticating Telegram client...
+2024-12-17 16:31:59,532 - ERROR - Authentication error: invalid literal for int() with base 10: 'jsclac'
+2024-12-17 16:32:08,873 - INFO - Fetching members from the group: dfdf
+2024-12-17 16:32:08,873 - ERROR - Error fetching members: 'NoneType' object has no attribute 'get_entity'

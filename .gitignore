@@ -1,0 +1,10 @@
+# Ignore specific files
+/dist/
+build/main/main.pkg
+dist/main.exe
+
+# Ignore all .log files
+*.log
+
+# Ignore all files in a folder
+/node_modules/
